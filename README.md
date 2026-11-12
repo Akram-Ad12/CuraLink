@@ -3,7 +3,7 @@
 **A web platform for managing health-related scientific events**: conferences, workshops, proposal review, scientific programs, live Q&A and surveys.
 Developed by a team of three for the DAW2 module (L3 Information Technologies, Constantine 2 University, 2025/2026). Built with Laravel, Vue.js and MySQL.
 
-**Project status.** The backend is complete for all 8 modules, and every API route was tested and validated in Postman. The Vue frontend, built by other members of the team, covers Modules 1 to 5; Modules 6 to 8 are implemented and tested at API level and designed in Figma, but not yet connected to the interface. This was a 1.5-month academic project, so finishing the full frontend was not expected.
+**Project status.** The backend is complete for all 8 modules, and every API route was tested and validated in Postman. The Vue frontend, built by other members of the team, covers Modules 1 to 5; Modules 6 to 8 are implemented and tested at API level and designed in Figma, but not yet connected to the interface.
 
 > This repository is my fork of the team repository: <https://github.com/imene253/plateforme-web-de-gestion-d-v-nements-scientifiques>
 >
