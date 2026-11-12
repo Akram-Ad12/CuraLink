@@ -6,6 +6,8 @@ Developed by a team of three for the DAW2 module (L3 Information Technologies, C
 **Project status.** The backend is complete for all 8 modules, and every API route was tested and validated in Postman. The Vue frontend, built by other members of the team, covers Modules 1 to 5; Modules 6 to 8 are implemented and tested at API level and designed in Figma, but not yet connected to the interface. This was a 1.5-month academic project, so finishing the full frontend was not expected.
 
 > This repository is my fork of the team repository: <https://github.com/imene253/plateforme-web-de-gestion-d-v-nements-scientifiques>
+>
+> For project overview: [See Slides](docs/curalink-slides.pdf)
 
 ## What it does
 
@@ -52,7 +54,9 @@ Designed the whole application in Figma: wireframes, a style guide, and high-fid
 
 ## Design
 
-The whole interface was designed in Figma before development. These are design mockups with placeholder data, not screenshots of the running application. The program editor below is a design for Modules 6 and 7, whose backend is finished but whose interface was not built within the project time.
+The whole interface was designed in Figma before development. These are design mockups with placeholder data.
+
+![Figma Workflow](docs/design/figma-workflow.png)
 
 ### Landing page
 ![Landing page](docs/design/home.png)
@@ -63,7 +67,7 @@ The whole interface was designed in Figma before development. These are design m
 ### Event page with program
 ![Event page](docs/design/event-page-program.png)
 
-### Program editor (Module 6 and 7)
+### Program editor
 ![Program editor](docs/design/program-editor.png)
 
 ### Proposal evaluation
@@ -74,7 +78,7 @@ The whole interface was designed in Figma before development. These are design m
 | Layer | Technology |
 | --- | --- |
 | Backend | Laravel (PHP), Laravel-Permission, Carbon |
-| Frontend | Vue.js (implemented through Module 5 by teammates) |
+| Frontend | Vue.js |
 | Database | MySQL |
 | Architecture | MVC, API-first |
 | Design | Figma |
@@ -100,7 +104,7 @@ php artisan serve             # in another
 
 ## Team
 
-Team of three: Akram Adoui (me), [Imene Ramanoudjam](https://github.com/imene253) and Djoumana Saidi.
+Team of three: Akram Adoui (me), Imene Ramanoudjam and Djoumana Saidi.
 
 ## License
 
