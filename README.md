@@ -7,7 +7,7 @@ Developed by a team of three for the DAW2 module (L3 Information Technologies, C
 
 > This repository is my fork of the team repository: <https://github.com/imene253/plateforme-web-de-gestion-d-v-nements-scientifiques>
 >
-> For project overview: [See Slides](docs/curalink-slides.pdf)
+> For project overview: [See Slides](docs/CuraLink-slideshow.pdf)
 
 ## What it does
 
