@@ -84,7 +84,7 @@ The whole interface was designed in Figma before development. These are design m
 | Design | Figma |
 | Tools | Git/GitHub, Postman, Notion, XAMPP, Excalidraw |
 
-Backend routes are documented in [`API_ENDPOINTS.txt`](API_ENDPOINTS.txt). Every route was tested and validated in Postman before being connected to the frontend.
+Backend routes are documented in [`API_ENDPOINTS.txt`](API_ENDPOINTS.txt) 63 distinct API endpoints over 24 tables in MySQL. Every route was tested and validated in Postman before being connected to the frontend.
 
 ## Getting started
 
